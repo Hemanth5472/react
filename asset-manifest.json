@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.ff88066f.css",
+    "main.js": "/react/static/js/main.4b0a9685.js",
+    "static/js/453.ace21015.chunk.js": "/react/static/js/453.ace21015.chunk.js",
+    "static/media/stockmarket.webp": "/react/static/media/stockmarket.300bd4c5f0a3fc6ce200.webp",
+    "static/media/Hemanth_pic.jpg": "/react/static/media/Hemanth_pic.b95b6fd7b621ea5e3b14.jpg",
+    "static/media/mixkit-fast-double-click-on-mouse-275.mp3": "/react/static/media/mixkit-fast-double-click-on-mouse-275.e758e4b03a23060754fe.mp3",
+    "static/media/Hemanth Resume.pdf": "/react/static/media/Hemanth Resume.5ded5e07d19e03aa6f72.pdf",
+    "static/media/RobotoSlab-Black.ttf": "/react/static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
+    "static/media/RobotoSlab-Bold.ttf": "/react/static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
+    "static/media/RobotoSlab-Regular.ttf": "/react/static/media/RobotoSlab-Regular.7ff9da9c484d15185b5b.ttf",
+    "static/media/GildaDisplay-Regular.ttf": "/react/static/media/GildaDisplay-Regular.f712cdf2015640c8cc1e.ttf",
+    "static/media/youfarm.webp": "/react/static/media/youfarm.9f622864c2c2b5e23232.webp",
+    "static/media/coding-svg-clipart.svg": "/react/static/media/coding-svg-clipart.c7dc2b641f32384d893b.svg",
+    "static/media/gotosite.webp": "/react/static/media/gotosite.dc2459843a8d51a90e5d.webp",
+    "static/media/webchatapp.webp.jpg": "/react/static/media/webchatapp.webp.a69f552b6a086d0179f2.jpg",
+    "static/media/learn-coding-clipart.svg": "/react/static/media/learn-coding-clipart.eda1b469c5c19f0671f8.svg",
+    "static/media/github.webp": "/react/static/media/github.ed1c06d925fff0b57e32.webp",
+    "static/media/pvz.webp": "/react/static/media/pvz.0242b608d1b0242d8547.webp",
+    "static/media/exploiter.webp": "/react/static/media/exploiter.e6dc36ad58ecf6094fd0.webp",
+    "index.html": "/react/index.html",
+    "main.ff88066f.css.map": "/react/static/css/main.ff88066f.css.map",
+    "main.4b0a9685.js.map": "/react/static/js/main.4b0a9685.js.map",
+    "453.ace21015.chunk.js.map": "/react/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff88066f.css",
+    "static/js/main.4b0a9685.js"
+  ]
+}
